@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body .nav-color {
+  background-color: #D8D9CF;
+}
+body .nav-select {
+  background-color: #EDEDED;
+}
+body .main-color {
+  background: aqua;
+}
+body .colorrr {
+  background-color: red;
+}
+
+/*# sourceMappingURL=output.css.map */
